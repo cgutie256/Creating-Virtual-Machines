@@ -63,7 +63,7 @@ Keep the default unless you have specific storage requirements.
 <br />
 <img src="https://github.com/user-attachments/assets/280ef0d8-86e9-4740-8f37-064438ca5f37" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Use default Virtual Network and Subnet, or create new ones.
+Use the default Virtual Network and Subnet, or create new ones.
 
 Make sure a Public IP is assigned if you need to access the VM externally.
 
